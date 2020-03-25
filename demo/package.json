@@ -12,7 +12,7 @@
         "history": "^4.7.2",
         "jarl-react": "^0.3.3",
         "jarl-react-redux": "^0.3.3",
-        "@superformula/my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git@superformula/my-demo-component@0.1.2",
+        "@superformula/my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#@superformula/my-demo-component@0.1.2",
         "@superformula/my-demo-component-lib": "https://github.com/uriel-sf/lerna-react-library-template.git#@superformula/my-demo-component-lib@0.1.4",
         "prop-types": "^15.6.0",
         "react": "^16.2.0",
