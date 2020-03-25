@@ -53,7 +53,7 @@
         "react": ">=15"
     },
     "dependencies": {
-        "@superformula/my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#superformula-my-demo-component-v0.1.1-gitpkg",
+        "@superformula/my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#@superformula/my-demo-component@0.1.2",
         "invariant": "^2.2.2",
         "prop-types": "^15.6.0"
     },
