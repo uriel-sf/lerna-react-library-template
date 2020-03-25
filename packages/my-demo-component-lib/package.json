@@ -1,7 +1,7 @@
 {
     "name": "my-demo-component-lib",
     "private": true,
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Foo version of my-demo-component (part of Lerna React Library Template)",
     "main": "index.js",
     "module": "es/index.js",
@@ -53,8 +53,8 @@
         "react": ">=15"
     },
     "dependencies": {
-        "my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#my-demo-component@0.1.2",
         "invariant": "^2.2.2",
+        "my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#my-demo-component@0.1.2",
         "prop-types": "^15.6.0"
     },
     "devDependencies": {

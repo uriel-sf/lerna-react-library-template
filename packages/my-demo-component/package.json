@@ -1,7 +1,7 @@
 {
     "name": "my-demo-component",
     "private": true,
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Demo component from Lerna React Library Template",
     "main": "index.js",
     "module": "es/index.js",
