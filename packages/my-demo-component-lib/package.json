@@ -1,5 +1,5 @@
 {
-    "name": "@superformula/my-demo-component-lib",
+    "name": "my-demo-component-lib",
     "private": true,
     "version": "0.1.4",
     "description": "Foo version of my-demo-component (part of Lerna React Library Template)",
@@ -53,7 +53,7 @@
         "react": ">=15"
     },
     "dependencies": {
-        "@superformula/my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#@superformula/my-demo-component@0.1.2",
+        "my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#my-demo-component@0.1.2",
         "invariant": "^2.2.2",
         "prop-types": "^15.6.0"
     },
