@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import MyDemoComponentLib from "@superformula/my-demo-component-lib";
+import MyDemoComponentLib from "my-demo-component-lib";
 
 const Home = () => (
     <Fragment>

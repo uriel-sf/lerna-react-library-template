@@ -5,7 +5,7 @@
     "scripts": {
         "build": "node ./build/all.js",
         "clean": "lerna run clean",
-        "start": "cd demo && npm start",
+        "start": "cd demo && yarn start",
         "test": "lerna run test --stream",
         "e2e": "cd demo && npm cypress"
     },

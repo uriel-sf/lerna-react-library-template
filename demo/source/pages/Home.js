@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import MyDemoComponent from "@superformula/my-demo-component";
+import MyDemoComponent from "my-demo-component";
 
 const Home = () => (
     <Fragment>
