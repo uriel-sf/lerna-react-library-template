@@ -54,7 +54,7 @@
     },
     "dependencies": {
         "invariant": "^2.2.2",
-        "my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#my-demo-component@0.1.2",
+        "my-demo-component": "https://github.com/uriel-sf/lerna-react-library-template.git#my-demo-component@0.1.3",
         "prop-types": "^15.6.0"
     },
     "devDependencies": {
