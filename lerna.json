@@ -1,9 +1,5 @@
 {
-  "lerna": "2.5.1",
-  "packages": [
-    "packages/my-demo-component",
-    "packages/my-demo-component-lib",
-    "demo"
-  ],
-  "version": "0.1.2"
+    "packages": ["packages/*"],
+    "version": "independent",
+    "npmClient": "yarn"
 }
