@@ -1,7 +1,7 @@
 {
     "name": "@superformula/my-demo-component-lib",
     "private": true,
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Foo version of my-demo-component (part of Lerna React Library Template)",
     "main": "index.js",
     "module": "es/index.js",
